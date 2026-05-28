@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="res/crossroad-logo.png" width="200" height="200" alt="Traffic Light Banner">
+<img src="docs/crossroad-logo.png" width="200" height="200" alt="Traffic Light Banner">
 
 # Crossroad Traffic Light Controller
 
@@ -51,19 +51,19 @@ The circuit sequences the state transitions of a multi-lane urban crossroads, sy
 
 ### 1. Schematic Capture
 
-![Schematic Capture](res/schematic_capture.png)
+![Schematic Capture](export/schematic_capture.png)
 
 *Full structural logic schematic containing synchronized flip-flop registers, logic arrays, and downstream current-limiting resistor banks.*
 
 ### 2. 2D Copper Track Layout
 
-![PCB Layout](res/pcb_layout.png)
+![PCB Layout](export/pcb_layout.png)
 
 *Finished double-sided routing layout view in Proteus. Red tracks correspond to Top Copper signal runs; Blue tracks illustrate Bottom Copper paths jumping beneath IC configurations.*
 
 ### 3. 3D Production Render
 
-![3D Render](res/3d_render.png)
+![3D Render](export/3d_render.png)
 
 *Ray-traced 3D visual preview highlighting THT component alignment, white silkscreen lettering layers, and isolated structural board boundaries.*
 
