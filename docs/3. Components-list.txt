@@ -1,0 +1,39 @@
+Integrated Circuits (IC) - DIP:
+
+1x 74HCT74 – Dual D-Type Flip-Flop
+1x 74HCT04 – Hex Inverter / NOT Gates
+1x 74HC08 – Quad 2-Input AND Gate
+1x 74HCT86 – Quad 2-Input XOR Gate
+
+Light Emitting Diodes (LED) - 5mm THT:
+
+4x Red LEDs
+4x Yellow LEDs
+4x Green LEDs
+
+Resistors - 1/4 Watt (0.25W) Carbon Film or Metal Film axial
+12x 330 Ω Resistors
+
+Connectors and Terminals
+2x 2-Pin Screw Terminal Blocks (5.08mm pin spacing / pitch) 
+– One for your POWER block and one for your CLOCK signal input.
+
+Extras:
+4x 14-Pin DIP IC Sockets (Optional)
+5V DC Power Supply / Battery Pack
+Solder (60/40 leaded, rosin core)
+
+------------------------------------------------------------------------
+Total:
+1x 	74HCT74
+1x 	74HCT04
+1x 	74HC08
+1x 	74HCT86
+4x 	Red LEDs
+4x 	Yellow LEDs
+4x 	Green LEDs
+12x 	Resistors 330ohm
+2x 	2-Pin Screw Terminal Blocks (5.08mm pin spacing)
+1x 	5V DC Power Supply / Battery Pack
+1x 	Solder (60/40 leaded, rosin core)
+4x 	14-Pin DIP IC Sockets (Optional)
