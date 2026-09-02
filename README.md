@@ -51,13 +51,13 @@ The circuit sequences the state transitions of a multi-lane urban crossroads, sy
 
 ### 1. Schematic Capture
 
-![Schematic Capture](export/schematic_capture.png)
+![Schematic Capture](export/schematic_capture.svg)
 
 *Full structural logic schematic containing synchronized flip-flop registers, logic arrays, and downstream current-limiting resistor banks.*
 
 ### 2. 2D Copper Track Layout
 
-![PCB Layout](export/pcb_layout.png)
+![PCB Layout](export/pcb_layout.svg)
 
 *Finished double-sided routing layout view in Proteus. Red tracks correspond to Top Copper signal runs; Blue tracks illustrate Bottom Copper paths jumping beneath IC configurations.*
 
