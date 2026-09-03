@@ -1,0 +1,23 @@
+1x 	74HCT74 – Flip-Flop
+1x 	74HCT04 – NOT Gate
+1x 	74HC08 - AND Gate
+1x 	74HCT86 - Quad 2-Input XOR Gate
+1x 	NE555 - Timer IC
+
+4x 	Red LEDs
+4x 	Yellow LEDs
+4x 	Green LEDs
+
+12x Resistors 330Ω
+1x 	Resistor 1kΩ
+1x 	Resistor 68kΩ
+
+1x 	10µF Electrolytic Capacitor
+1x 	10nF Ceramic Capacitor
+1x 	1N4007 Rectifier Diode
+
+1x 	2-Pin Screw Terminal Blocks (5.08mm pin spacing)
+2x 	2X 1.5V AA Battery holder
+4x 	AA Batteries
+4x 	14-Pin DIP IC Sockets (Optional)
+1x 	8-Pin DIP IC Socket (Optional)
